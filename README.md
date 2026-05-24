@@ -1,8 +1,10 @@
-<html lang="en" class="scroll-smooth">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Garden of Eden Yard Service | Nature Perfected</title>
+  <meta name="description" content="Garden of Eden Yard Service - Professional landscaping, lawn maintenance, tree trimming, and yard cleanup in Honolulu, Kahala, Kailua, and East Oahu.">
+  <meta name="keywords" content="landscaping Honolulu, yard service Oahu, lawn care Honolulu, tree trimming Kahala, yard cleanup East Oahu, Hawaii landscaping">
+  <title>Garden of Eden Yard Service | Honolulu & East Oahu Landscaping</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
   <style>
@@ -33,6 +35,7 @@
       </div>
     </div>
   </nav>
+
 
   <!-- Services -->
   <section id="services" class="py-20 bg-white">
